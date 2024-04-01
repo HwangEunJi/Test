@@ -1,0 +1,6 @@
+long_term_forecast_peyton_96_96_TimesNet_custom_ftS_sl96_ll48_pl96_dm32_nh8_el2_dl1_df32_fc3_ebtimeF_dtTrue_Exp_0  
+mse:0.901983916759491, mae:0.7255359292030334
+
+long_term_forecast_peyton_96_192_TimesNet_custom_ftS_sl96_ll48_pl192_dm32_nh8_el2_dl1_df32_fc3_ebtimeF_dtTrue_Exp_0  
+mse:0.9712300896644592, mae:0.761979341506958
+
