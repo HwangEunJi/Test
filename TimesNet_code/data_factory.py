@@ -67,6 +67,9 @@ def data_provider(args, flag):
             size=[args.seq_len, args.label_len, args.pred_len],
             features=args.features,
             target=args.target,
+            date_col=args.date_col,
+            train_test_split_date=args.train_test_split_date,
+            train_test_split_rate=args.train_test_split_rate,
             timeenc=timeenc,
             freq=freq,
             seasonal_patterns=args.seasonal_patterns
